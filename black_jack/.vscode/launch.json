@@ -1,0 +1,31 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - black_jack",
+            "request": "launch",
+            "mainClass": "black_jack",
+            "projectName": "black_jack_56aa62dd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - mainClass",
+            "request": "launch",
+            "mainClass": "mainClass",
+            "projectName": "black_jack_56aa62dd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "black_jack_56aa62dd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Main"
+        }
+    ]
+}
